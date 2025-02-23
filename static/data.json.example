@@ -1,0 +1,22 @@
+{
+    "parties": [
+        {
+            "name": "Partei 1",
+            "description": "Wir stehen für Chancengleichheit und Freiheit.",
+            "positions": [1],
+            "explanations": [
+                "Umweltschutz ist essentiell, um unsere Heimat, die Erde, zu schützen. Mülltrennung und Recycling sind daher extrem wichtig. Durch Subventionen sichern wir das Unternehmen diese auch umsetzen."
+            ],
+            "program_link": "/program/Partei1 Wahlprogramm.pdf",
+            "logo_link": "/logo/Partei1 Logo.png",
+            "logo_link_dark": "/logo/Partei1 Logo Black.png"
+        }
+    ],
+
+    "theses": [
+        {   
+            "topic": "Mülltrennung",
+            "description": "Der Staat soll sich für Mülltrennung bzw. Müllvermeidung einsetzten und ggf. auch attraktiver machen."
+        }
+    ]
+}
