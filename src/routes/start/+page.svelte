@@ -148,17 +148,17 @@
             <CardFooter class="flex flex-col md:flex-row">
                 <Button
                     onclick={agree}
-                    class="w-[100%] mb-4 md:mb-0 md:w-[25%] md:mr-4 rounded-none border-[2px] dark:border-white border-black md:dark:hover:bg-white md:dark:hover:text-black md:hover:text-white md:hover:bg-black duration-500"
+                    class="w-[100%] mb-4 md:mb-0 md:w-[25%] md:mr-4 rounded-none border-[2px] dark:border-white border-black dark:hover:bg-white dark:hover:text-black hover:text-white hover:bg-black duration-500"
                     variant="outline">stimme zu</Button
                 >
                 <Button
                     onclick={neutral}
-                    class="w-[100%] mb-4 md:mb-0 md:w-[25%] md:mr-4 rounded-none border-[2px] dark:border-white border-black md:dark:hover:bg-white md:dark:hover:text-black md:hover:text-white md:hover:bg-black duration-500"
+                    class="w-[100%] mb-4 md:mb-0 md:w-[25%] md:mr-4 rounded-none border-[2px] dark:border-white border-black dark:hover:bg-white dark:hover:text-black hover:text-white hover:bg-black duration-500"
                     variant="outline">neutral</Button
                 >
                 <Button
                     onclick={disagree}
-                    class="w-[100%] md:w-[25%] rounded-none border-[2px] dark:border-white border-black md:dark:hover:bg-white md:dark:hover:text-black md:hover:text-white md:hover:bg-black duration-500"
+                    class="w-[100%] md:w-[25%] rounded-none border-[2px] dark:border-white border-black dark:hover:bg-white dark:hover:text-black hover:text-white hover:bg-black duration-500"
                     variant="outline">stimme nicht zu</Button
                 >
             </CardFooter>
