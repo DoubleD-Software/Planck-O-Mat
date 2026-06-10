@@ -7,22 +7,22 @@ The open-source, self-hostable tool that helps citizens match their views to pol
 ## Screenshots
 
 Main Page
-![img](https://assets.double-d.software/api/public/dl/-0kQlbsy/Planck-O-Mat/start.png)
+![img](https://github.com/DoubleD-Software/Planck-O-Mat/raw/master/img/start.png)
 
 Answer Mode
-![img](https://assets.double-d.software/api/public/dl/_O-CyifR/Planck-O-Mat/answermode.png)
+![img](https://github.com/DoubleD-Software/Planck-O-Mat/raw/master/img/answermode.png)
 
 Result
-![img](https://assets.double-d.software/api/public/dl/7FG66G29/Planck-O-Mat/result.png)
+![img](https://github.com/DoubleD-Software/Planck-O-Mat/raw/master/img/result.png)
 
 All Parties
-![img](https://assets.double-d.software/api/public/dl/z_ZsWBa5/Planck-O-Mat/parties.png)
+![img](https://github.com/DoubleD-Software/Planck-O-Mat/raw/master/img/parties.png)
 
 All Thesis Answers
-![img](https://assets.double-d.software/api/public/dl/-1DZJcAk/Planck-O-Mat/thesis.png)
+![img](https://github.com/DoubleD-Software/Planck-O-Mat/raw/master/img/thesis.png)
 
 Light Mode
-![img](https://assets.double-d.software/api/public/dl/K-GiCGqR/Planck-O-Mat/light.png)
+![img](https://github.com/DoubleD-Software/Planck-O-Mat/raw/master/img/light.png)
 
 ## Deploying
 
@@ -85,7 +85,7 @@ The `theses` array contains all theses each party answered. Each contains:
 - `topic`: A general thesis heading.
 - `description`: The detailed description.
 
-**AGAIN**: Order matters! The first thesis corresponds with the first answer and first explanation of each party.
+**AGAIN**: Order matters! The first thesis corresponds to the first answer and first explanation of each party.
 
 ### Troubleshooting
 
